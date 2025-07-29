@@ -1,0 +1,114 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}  
+
+
+header {
+    background-color: #00aeff;
+    height: 100px;
+    margin-bottom: auto;
+    text-align: left;
+    width: 100%;
+}
+
+
+.logo {
+    padding: 5px 50px;
+    width: 200px;
+}
+   
+nav {
+    color: white;
+    float: right;
+    padding: 40px 50px 0px 0px;
+}
+
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+nav li {
+    display: inline-block;
+}
+
+
+nav li a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+.intro-block a {
+    display: inline-block;
+}
+
+
+.hero-img {
+    width: 900px;
+}
+   
+h1{
+    font-size: 40px;
+}
+
+
+.button {
+    color:#003b63;
+    font-size: 19px;
+    margin: 30px 5px;
+    padding: 15px 15px;
+    border: 2px solid #003b63;
+    min-width: 150px;
+}
+
+
+.hero-img {
+    width: 800px;
+}
+
+
+#intro {
+    background: black url(../images/ultra-bungee-hero.jpg)
+    no-repeat center;
+    background-size: cover;
+    padding-bottom: 60px;
+    padding-top: 250px;
+}
+
+
+.intro-block {
+    background-color: #bcf200;
+    color: #003b63;
+    margin: 0 auto;
+    margin-top: 260px;
+    max-width: 900px;
+    padding: 30px 30px;
+}
+
+
+#bridge {
+    background: black url(../images/ultra-bungee-hero.jpg)
+    no-repeat center;
+    background-size: cover;
+    padding-bottom: 400px;
+    padding-top: 400px;
+    margin-bottom: auto;
+}
+
+
+footer {
+    background-color: #ed107f;
+    color: white;
+    margin-top: auto;
+    padding: 30px 0px;
+}
+
+
